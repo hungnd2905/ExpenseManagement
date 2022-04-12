@@ -10,7 +10,7 @@ Practice ReactJS:
 - combine component (composition)
 - props.children
 - useState
-- eventHandler with one 
+- eventHandler with one state
 - eventHandler with more states using objects
 - spread Operator
 - 2-way Binding, child-to-parent (bomtom-up) communication between component
