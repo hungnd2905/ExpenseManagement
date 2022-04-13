@@ -1,6 +1,6 @@
-# ExpenseManagement
+# ExpenseManagement (ReactJS)
 WebLink: https://expensemanagement-71b5a.web.app/
-Practice ReactJS:
+
 
 - JSX
 - import/export component 
